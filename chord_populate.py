@@ -48,5 +48,5 @@ if len(sys.argv) != 3:
 node_port = int(sys.argv[1])
 file_path = sys.argv[2]
 
-#populateChord(node_port, file_path, num_of_rows=100)
-populateChord(node_port, file_path, None)  # all rows
+#populateChord(node_port, file_path, None)  # all rows
+populateChord(node_port, file_path, num_of_rows=100)
