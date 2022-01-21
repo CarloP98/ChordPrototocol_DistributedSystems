@@ -13,7 +13,7 @@ python chord_populate.py [known_node_port] Career_Stats_Passing.csv
 
 Query network
 ```console
-python chord_populate.py [known_node_port] [key](Player Id + Year)
+python chord_query.py [known_node_port] [key](Player Id + Year)
 ```
 
 
