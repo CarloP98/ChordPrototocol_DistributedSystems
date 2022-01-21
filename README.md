@@ -11,7 +11,7 @@ Populate network
 python chord_populate.py [known_node_port] Career_Stats_Passing.csv
 ```
 
-Populate network
+Query network
 ```console
 python chord_populate.py [known_node_port] [key](Player Id + Year)
 ```
